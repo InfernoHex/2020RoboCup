@@ -3,7 +3,7 @@
 
 ## Learning the 'Markdown'
 
-How we do the 'Markdown' is we press the new file and then write what we did and in this case this is the first markdown. To make headings
+We do the 'Markdown' by pressing the "new file" button and then writing what we did, which in this case, happened to be our first markdown. To make headings
 we use one hashtag and for the subheading we use two.
 
 ## How to add a collaberator
