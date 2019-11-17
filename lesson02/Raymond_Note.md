@@ -7,3 +7,19 @@ we had to decide either to use 'hard coded' code or 'robust coded' code which wa
 would have to think even more than outside the box, maybe even outside this world! Though with the 'hard coded' code it wasn't
 as accurate and successful as it could be. A suggestion that I made was to use a gryo sensor to measure the angles to peform a
 more accurate and successful preformance. It might just as well work :D (I haven't tried yet!)
+
+# Raymonds Notes
+## Week 2
+
+A basic idea
+Robot must find a victim
+
+##Robot control robots must be started/restarted manually by the robot handler The code must not be imported or downloaded by anywireless commucation
+
+##Robot debris Any parts that have fallen off must not be removed while the robot is running
+
+##Finishing THe victim is considered rescued when outside the chemical spill
+
+##Lack of progress A lack of progress happens when: *THe robot is touched by humans *The robot moves completly out of the field
+
+##Length of the game A robot will have a time limit of 2min
