@@ -13,4 +13,6 @@ advanced things (Wall avoiding, etc)
 ## Code
 Based off of the Wall Avoiding video I have created my own code for this agenda
 and assume to test it. The eventuality might turn out bad though it's those steps
-every coder has to take!
+every coder has to take! If you're asking the code name is D and it is the exact same code
+from the video though modified
+
