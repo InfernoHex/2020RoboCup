@@ -16,3 +16,7 @@ and assume to test it. The eventuality might turn out bad though it's those step
 every coder has to take! If you're asking the code name is D and it is the exact same code
 from the video though modified
 
+## Mistakes I made
+* To make the format you have to make sure you have a md at the end of the file name
+* Make sure that file name has no spaces. 
+* Use preview mode before submit.
