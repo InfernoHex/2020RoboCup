@@ -6,3 +6,4 @@ pushing the can out in a expeditious manner)
 * Border Patrol (Roaming around the edge of the borders, looking for the can)
 * Surface Detection (Going around and around in circles before detecting the can before going side to side to
 see the best opening to rescue from)
+I will probably be using the sweeping method!
