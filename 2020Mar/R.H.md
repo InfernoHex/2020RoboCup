@@ -8,6 +8,7 @@ near the middle it will tail whip it out!
 # BAD THINGS!
 
 ## Some conns!
-* Sometimes this happens and it drives backwards so it exits the rescue area!
+* Sometimes this happens and it drives backwards so it exits the rescue area! This is probably because
+of the entering and exit speed confusing the sensors activating crucial code at the wrong time!
 * It will have to take around 40sec if miss the first revolution (though
 also not that common!)
