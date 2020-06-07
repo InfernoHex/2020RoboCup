@@ -14,6 +14,6 @@
 3) The current version of Frank's code still works
 4) EV3 Classroom | Version 1.1.1 (1.1.1.9481) for Raymond and Samuel and for Frank's version it is Lego Mindstorms Education | 1.4.2 (20180509.1)
 5) We now realise we cant give up on troubleshooting as two moments later everytime we say we cant do it mum finds a way through documents or downloads (depends on your PC or mac)
-  
+6) TO make the robot move you have to first assign which motors (via port) through a block in the section Movement on your left and the block name is 'Set Movement Motors to' 'TBD'. TBD is your choice for which port or motor.
   
 
